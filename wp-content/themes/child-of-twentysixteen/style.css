@@ -1,0 +1,23 @@
+/*
+Theme Name: Futures Fest
+Theme URI: analyticalengine.ca
+Description: This is a child theme developed for the APF Futures Fest in 2018
+Author: Analytical Engine
+Version: 1.0
+Template: twentysixteen
+*/
+
+@import url('../twentysixteen/style.css');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald|PT+Sans');
+
+/*font-family: 'PT Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Montserrat', sans-serif; */
+
+body {
+    background: #2D7DE0;
+}
+
+.entry-title {
+    display: none;
+}
